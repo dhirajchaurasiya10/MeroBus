@@ -62,4 +62,4 @@
    Sparkfun u-blox GNSS receiver [Documentation](https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library)
 
 # Contributors: 
-    [Hemant Mahatara](https://github.com/mahatarahemant/), [Dhiraj Chaurasiya](https://github.com/dhirajchaurasiya10/) 
+[Hemant Mahatara](https://github.com/mahatarahemant/), [Dhiraj Chaurasiya](https://github.com/dhirajchaurasiya10/) 
